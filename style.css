@@ -67,3 +67,29 @@
     font-size: 2em;
     font-family: 'Montserrat', sans-serif;
 }
+
+
+@media only screen and (min-width: 600px) {
+    .burger{
+        display: none;
+    }
+    .lien{
+        text-decoration: none;
+        color: black;
+        font-size: 3em;
+        font-weight: bold;
+        margin: 0 5vw 0 0;
+    }
+    .raclettes{
+        width: 20vw;
+    }
+    .racletteBody{
+        font-size: 1em;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .pcView{
+        display: flex;
+
+    }
+}
+
