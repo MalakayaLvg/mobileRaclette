@@ -64,10 +64,13 @@
 }
 
 .racletteBody{
-    font-size: 1em;
+    font-size: 2em;
     font-family: 'Montserrat', sans-serif;
 }
 .lien{
+    display: none;
+}
+.liens{
     display: none;
 }
 .pcView{
